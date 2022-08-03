@@ -1,4 +1,4 @@
-### Bom dia... 👋
+### Bom dia... 👋 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn-icons.flaticon.com/png/512/2725/premium/2725758.png?token=exp=1659549585~hmac=fb7e4f976c19c47c72c14ed18bf43f0a" height="30" width="30"></a>
 
 - 🔭 I’m currently working on Cloud & Datacenter
 - 📚 I’m currently learning Java
@@ -24,9 +24,13 @@
 </div>
   
 ##
+
  
 <div> 
   <a href="https://instagram.com/artur.carletto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arturcarletto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arturcarletto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
