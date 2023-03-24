@@ -1,6 +1,6 @@
 
 
-### Bom dia... 👋 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn-icons.flaticon.com/png/512/2725/premium/2725758.png?token=exp=1659549585~hmac=fb7e4f976c19c47c72c14ed18bf43f0a" height="30" width="30"></a>
+### Bom dia... 👋 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
 
 - 🔭 I’m currently working on Cloud & Datacenter
 - 📚 I’m currently learning Java
